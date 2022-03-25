@@ -1,0 +1,46 @@
+.bg{
+    background-color: black;
+    margin: auto;
+    width: max-content;
+}
+
+.title{
+    color:white;
+    font-size: 60px;
+    font-family: kiniano;
+}
+
+.small{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+} 
+.btn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    padding: 8px;
+    color: black;
+    background-color: black;
+    cursor: pointer;
+    border: none;
+}
+.btn:hover{
+    color: black;
+    background-color: white;
+}
+
+#txt{
+    font-family: kiniano;
+    font-size: 25px;
+    color: black;
+    background-color: black;
+    cursor: pointer;
+    border: none;
+}
+
+#txt:hover{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
